@@ -1,7 +1,7 @@
 GERADOR DE QR CODE
 
 Projeto feito com windows forms.
-Bibliotecas e Frameworks utilizados: \n
+Bibliotecas e Frameworks utilizados: <br>
   -Guna2 Framework UI
   -Micro ORM Dapper
   -QRCoder
