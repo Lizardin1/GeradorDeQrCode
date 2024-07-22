@@ -1,11 +1,12 @@
 GERADOR DE QR CODE
 
-Projeto feito com windows forms.
+Projeto feito com windows forms.<br>
 Bibliotecas e Frameworks utilizados: <br>
   -Guna2 Framework UI<br>
   -Micro ORM Dapper<br>
   -QRCoder<br>
   -PDFSharp<br>
+  <br>
 ![image](https://github.com/user-attachments/assets/9b892d59-5ca4-4f77-be94-0e7e8402184d)
 
 Nele é possivel salvar o arquivo em PNG(imagem), e PDF em qualquer pasta escolhida em seu computador.
