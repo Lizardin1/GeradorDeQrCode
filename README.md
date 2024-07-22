@@ -6,7 +6,6 @@ Projeto feito com windows forms.
 Bibliotecas e Frameworks utilizados:
 <br>
   -Guna2 Framework UI<br>
-  -Micro ORM Dapper<br>
   -QRCoder<br>
   -PDFSharp<br>
   <br>
